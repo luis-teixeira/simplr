@@ -1,5 +1,5 @@
 {
-  "name": "weather-widget",
+  "name": "Simplr",
   "version": "0.1.0",
   "description": "Simplr is a React StartKit with Redux and Redux-Saga",
   "author": "Luis Teixeira",
@@ -8,6 +8,12 @@
     "type": "git",
     "url": "git://github.com/luis-teixeira/simplr"
   },
+  "keywords": [
+    "react",
+    "react-redux",
+    "redux-saga",
+    "immutable"
+  ],
   "engines": {
     "npm": ">=3"
   },
