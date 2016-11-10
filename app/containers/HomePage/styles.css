@@ -1,0 +1,33 @@
+button {
+  padding: 6px 20px;
+  display: inline-block;
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  background-color: #1C95B6;
+  color: #fff;
+}
+
+button:hover{
+  transition: all 200ms;
+  background-color: #198baa;
+}
+
+section {
+  padding: 20px;
+}
+
+.warper {
+  margin-top: 30px;
+}
+
+p {
+  font-size: small;
+}
